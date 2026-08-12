@@ -1,8 +1,0 @@
-# Contribution Log
-
-* Created the Weather and Packing Assistant project.
-* Added a `get_weather(city)` function to get sample weather data.
-* Added weather data for New York, Los Angeles, Chicago, and Miami.
-* Planned the agent to take a city and travel dates as input.
-* Planned a packing list based on the weather.
-* Planned to connect a real weather API in the future.
